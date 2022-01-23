@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning BGMI 
 - 💞️ I’m looking to collaborate on @DeathMachine
 - 📫 How to reach me [Call me]
 
