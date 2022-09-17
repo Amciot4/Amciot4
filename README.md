@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rupesh
+- 👋 Hi, I’m @Zin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BGMI 
 - 💞️ I’m looking to collaborate on @DeathMachine
